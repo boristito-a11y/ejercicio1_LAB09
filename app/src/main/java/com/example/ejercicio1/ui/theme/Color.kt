@@ -2,10 +2,13 @@ package com.example.ejercicio1.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Indigo = Color(0xFF4F46E5)
+val IndigoDark = Color(0xFF312E81)
+val Violet = Color(0xFF7C3AED)
+val Coral = Color(0xFFFF6B6B)
+val Amber = Color(0xFFFFB020)
+val Mint = Color(0xFF10B981)
+val Background = Color(0xFFF5F6FB)
+val SurfaceWhite = Color(0xFFFFFFFF)
+val TextDark = Color(0xFF1F2937)
+val TextMuted = Color(0xFF6B7280)
